@@ -102,19 +102,18 @@ superpower: "I write code AND write PRDs — I'm the PM who
 
 <div align="center">
 
-| # | Repository | What It Shows |
-|---|-----------|---------------|
-| 🧠 | [**ai-pm-playbook**](../repos/AI-PM-Playbook) | My complete AI PM operating system — PRD templates, decision frameworks, sprint rituals |
-| 🏢 | [**enterprise-knowledge-assistant**](../repos/02-enterprise-knowledge-assistant) | Full product spec for an LLM+RAG enterprise knowledge product |
-| ⚙️ | [**llm-workflow-engine**](../repos/03-llm-workflow-engine) | LLM pipeline architecture, prompt chains, validation logic |
-| 📚 | [**enterprise-prompt-library**](../repos/04-prompt-library) | Production prompt templates for B2B SaaS use cases |
-| 🔍 | [**rag-architecture-design**](../repos/05-rag-architecture) | System design for RAG: chunking strategies, retrieval, evaluation |
-| 📊 | [**product-analytics-sql**](../repos/06-product-analytics-sql) | SQL playbook for product analytics — DAU, funnels, cohorts, churn |
-| 🤝 | [**hr-copilot-product-spec**](../repos/07-hr-copilot) | AI HR Copilot — complete PRD + architecture + GTM |
-| 🎙️ | [**ai-meeting-summarizer**](../repos/08-ai-meeting-summarizer) | AI meeting intelligence product — from problem to roadmap |
-| 📋 | [**saas-pm-templates**](../repos/09-saas-pm-templates) | Reusable PRD, roadmap, and OKR templates for B2B SaaS PMs |
-| 📁 | [**ai-product-case-studies**](../repos/10-case-studies) | 5 end-to-end AI product case studies with full PM artifacts |
-
+| 🚀 Project | Description |
+|-----------|-------------|
+| 🧠 [AI PM Playbook](https://github.com/samyuktha-s7/ai-pm-playbook) | AI PM operating system — PRD templates, decision frameworks, sprint rituals |
+| 🏢 [Enterprise Knowledge Assistant](https://github.com/samyuktha-s7/enterprise-knowledge-assistant) | Full product specification for an LLM + RAG enterprise knowledge platform |
+| ⚙️ [LLM Workflow Engine](https://github.com/samyuktha-s7/llm-workflow-engine) | Prompt chains, orchestration, validation and AI workflow design |
+| 📚 [Enterprise Prompt Library](https://github.com/samyuktha-s7/enterprise-prompt-library) | Production-ready prompt templates for B2B SaaS |
+| 🔍 [RAG Architecture Design](https://github.com/samyuktha-s7/rag-architecture-design) | Retrieval, chunking, embeddings, and evaluation strategies |
+| 📊 [Product Analytics SQL](https://github.com/samyuktha-s7/product-analytics-sql) | SQL for funnels, cohorts, retention, and churn analysis |
+| 🤝 [HR Copilot Product Spec](https://github.com/samyuktha-s7/hr-copilot-product-spec) | Complete AI HR Copilot product documentation |
+| 🎙️ [AI Meeting Summarizer](https://github.com/samyuktha-s7/ai-meeting-summarizer) | AI meeting intelligence product from idea to roadmap |
+| 📋 [SaaS PM Templates](https://github.com/samyuktha-s7/saas-pm-templates) | Reusable PRDs, roadmaps, and OKR templates |
+| 📁 [AI Product Case Studies](https://github.com/samyuktha-s7/ai-product-case-studies) | End-to-end AI product case studies with PM artifacts |
 </div>
 
 ---
