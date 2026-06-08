@@ -110,7 +110,7 @@ superpower: "I write code AND write PRDs — I'm the PM who
 | 📚 [Enterprise Prompt Library](https://github.com/samyukthashiva25-lang/enterprise-prompt-library) | Production-ready prompt templates for B2B SaaS |
 | 🔍 [RAG Architecture Design](https://github.com/samyukthashiva25-lang/rag-architecture-design) | Retrieval, chunking, embeddings, and evaluation strategies |
 | 📊 [Product Analytics SQL](https://github.com/samyukthashiva25-lang/product-analytics-sql) | SQL for funnels, cohorts, retention, and churn analysis |
-| 🤝 [HR Copilot Product Spec](https://github.com/samyukthashiva25-lang/hr-copilot-product-spec) | Complete AI HR Copilot product documentation |
+| 🤝 [HR Copilot Product Spec](https://github.com/samyukthashiva25-lang/HR-Copilot-Product-Specification) | Complete AI HR Copilot product documentation |
 | 🎙️ [AI Meeting Summarizer](https://github.com/samyukthashiva25-lang/AI-Meeting-Summarizer) | AI meeting intelligence product from idea to roadmap |
 | 📋 [SaaS PM Templates](https://github.com/samyukthashiva25-lang/saas-pm-templates) | Reusable PRDs, roadmaps, and OKR templates |
 | 📁 [AI Product Case Studies](https://github.com/samyukthashiva25-lang/ai-product-case-studies) | End-to-end AI product case studies with PM artifacts |
