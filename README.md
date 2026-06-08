@@ -104,7 +104,7 @@ superpower: "I write code AND write PRDs — I'm the PM who
 
 | 🚀 Project | Description |
 |-----------|-------------|
-| 🧠 [AI PM Playbook](https://github.com/samyuktha-s7/ai-pm-playbook) | AI PM operating system — PRD templates, decision frameworks, sprint rituals |
+| 🧠 [AI PM Playbook](https://github.com/samyuktha-s7/AI-PM-Playbook) | AI PM operating system — PRD templates, decision frameworks, sprint rituals |
 | 🏢 [Enterprise Knowledge Assistant](https://github.com/samyuktha-s7/enterprise-knowledge-assistant) | Full product specification for an LLM + RAG enterprise knowledge platform |
 | ⚙️ [LLM Workflow Engine](https://github.com/samyuktha-s7/llm-workflow-engine) | Prompt chains, orchestration, validation and AI workflow design |
 | 📚 [Enterprise Prompt Library](https://github.com/samyuktha-s7/enterprise-prompt-library) | Production-ready prompt templates for B2B SaaS |
