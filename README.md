@@ -134,8 +134,8 @@ superpower: "I write code AND write PRDs — I'm the PM who
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=samyuktha-s7&show_icons=true&theme=default&title_color=1B3A5C&icon_color=0F6E56&text_color=1A1A1A&bg_color=ffffff&border_color=0F6E56" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samyuktha-s7&theme=default&ring=0F6E56&fire=0F6E56&currStreakLabel=1B3A5C&border=0F6E56" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=samyukthashiva25-lang&show_icons=true&theme=default&title_color=1B3A5C&icon_color=0F6E56&text_color=1A1A1A&bg_color=ffffff&border_color=0F6E56" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samyukthashiva25-lang&theme=default&ring=0F6E56&fire=0F6E56&currStreakLabel=1B3A5C&border=0F6E56" height="165"/>
 
 </div>
 
