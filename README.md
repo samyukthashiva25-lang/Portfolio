@@ -104,7 +104,7 @@ superpower: "I write code AND write PRDs — I'm the PM who
 
 | # | Repository | What It Shows |
 |---|-----------|---------------|
-| 🧠 | [**ai-pm-playbook**](../repos/01-ai-pm-playbook) | My complete AI PM operating system — PRD templates, decision frameworks, sprint rituals |
+| 🧠 | [**ai-pm-playbook**](../repos/AI-PM-Playbook) | My complete AI PM operating system — PRD templates, decision frameworks, sprint rituals |
 | 🏢 | [**enterprise-knowledge-assistant**](../repos/02-enterprise-knowledge-assistant) | Full product spec for an LLM+RAG enterprise knowledge product |
 | ⚙️ | [**llm-workflow-engine**](../repos/03-llm-workflow-engine) | LLM pipeline architecture, prompt chains, validation logic |
 | 📚 | [**enterprise-prompt-library**](../repos/04-prompt-library) | Production prompt templates for B2B SaaS use cases |
